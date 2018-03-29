@@ -1,0 +1,19 @@
+<html>
+    {
+        "name":"Demo app for pwa",
+        "short_name":"DPWA",
+        "theme_color":"#fff",
+        "background_color":"#009200", 
+        "display":"standalone",
+        "orientation":"potrait",
+        "scope":".",
+        "start_url":".",
+        "icons":[
+            {
+                "src":"counter-strike_global_offensive_soldier_graphics_background_gun_15801_1920x1080.jpg",
+                "sizes":"72x72",
+                "types":"image/png" 
+           }    
+        ]
+    }
+</html>
